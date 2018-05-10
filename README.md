@@ -1,1 +1,1 @@
-# opencpu_appdemo
+# opencpu
