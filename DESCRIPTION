@@ -4,7 +4,7 @@ Title: OpenCPU Demo Application
 Version: 1.0
 Date: 2018-05-10
 Author: Jhoan Malonzo
-Maintainer: Jhoan Malonzo <jeroen@berkeley.edu>
+Maintainer: Jhoan Malonzo <jhoan.reyes@filamsoftware.com>
 Description: This package is an example of an OpenCPU App. It demonstrates
     basic functionality of the API and Javascript library.
 License: Apache2
